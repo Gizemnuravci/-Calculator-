@@ -1,5 +1,7 @@
 {
-  "devDependencies": {
-    "vite": "^8.1.5"
+  "name": "calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build needed'"
   }
 }
